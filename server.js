@@ -144,7 +144,7 @@ app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
 
-const server = app.listen(PORT, '0.0.0.0', () => {
+const server = app.listen(PORT, () => {
   console.log(`\n🚀 Server running in ${process.env.NODE_ENV || 'development'} mode on port ${PORT}`);
   console.log(`⚙️  MongoDB URI: ${process.env.MONGODB_URI?.substring(0, 30)}...`);
   console.log(`🔑 JWT_SECRET: ${process.env.JWT_SECRET ? 'Set' : 'NOT SET - AUTH WILL FAIL!'}`);
