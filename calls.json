@@ -1,0 +1,242 @@
+[
+  {
+    "_id": 1,
+    "createdAt": "2026-01-06T09:17:52.810Z",
+    "name": "Rahul Sharma",
+    "phoneNumber": "917060175427",
+    "email": "rahul.sharma@email.com",
+    "summary": "The client expressed interest in a property in South Delhi, specifically looking for a 5 BHK apartment within a 50 lakh budget and requiring amenities like parking, lift, and security. The consultant explained that in this budget, only 2-3 BHK options are available in areas like Saket and Malviya Nagar with required amenities, and offered site visit options. The client scheduled a site visit for next day at 2 PM, and call ended on a positive note.",
+    "preferredPropertyLocation": "South Delhi",
+    "budget": 5000000,
+    "appointment": {
+      "date": "2025-03-08",
+      "day": "Saturday",
+      "time": "14:00"
+    },
+    "call": {
+      "costUSD": 0.4102,
+      "durationMinutes": 3.25
+    },
+    "leadStatus": "HOT",
+    "followUps": []
+  },
+  {
+    "_id": 2,
+    "createdAt": "2026-01-06T09:22:08.162Z",
+    "name": "Priya Patel",
+    "phoneNumber": "918765432109",
+    "email": "priya.patel@email.com",
+    "summary": "The client showed strong interest in commercial property in Gurgaon for office space. Looking for 500 sq ft in Cyber City area. Budget around 2.5 crores. Discussed payment plans and possession timeline. Client agreed to review documents and schedule a site visit.",
+    "preferredPropertyLocation": "Gurgaon Cyber City",
+    "budget": 25000000,
+    "appointment": {
+      "date": "2025-03-10",
+      "day": "Monday",
+      "time": "11:00"
+    },
+    "call": {
+      "costUSD": 0.6234,
+      "durationMinutes": 5.5
+    },
+    "leadStatus": "HOT",
+    "followUps": []
+  },
+  {
+    "_id": 3,
+    "createdAt": "2026-01-07T10:15:00.000Z",
+    "name": "Amit Kumar",
+    "phoneNumber": "919876543210",
+    "email": "amit.kumar@email.com",
+    "summary": "Client inquired about residential plots in Noida Expressway. Looking for 300 sq yards. Initial budget discussion at 1.5 crores. Client needs more information about registry and payment schedule. Will send detailed brochure and arrange call next week.",
+    "preferredPropertyLocation": "Noida Expressway",
+    "budget": 15000000,
+    "appointment": {
+      "date": "2025-03-12",
+      "day": "Wednesday",
+      "time": "15:00"
+    },
+    "call": {
+      "costUSD": 0.512,
+      "durationMinutes": 4.2
+    },
+    "leadStatus": "WARM",
+    "followUps": []
+  },
+  {
+    "_id": 4,
+    "createdAt": "2026-01-08T14:30:00.000Z",
+    "name": "Sneha Verma",
+    "phoneNumber": "919001234567",
+    "email": "sneha.verma@email.com",
+    "summary": "Interested in luxury apartments in DLF Phase 5, Gurgaon. 4 BHK with servant room. Budget up to 4 crores. Discussed amenities, club facilities, and proximity to metro. Client impressed with project but needs to discuss with spouse. Will call back on weekend.",
+    "preferredPropertyLocation": "DLF Phase 5, Gurgaon",
+    "budget": 40000000,
+    "appointment": null,
+    "call": {
+      "costUSD": 0.789,
+      "durationMinutes": 6.1
+    },
+    "leadStatus": "WARM",
+    "followUps": ["Follow up on Saturday", "Send floor plans"]
+  },
+  {
+    "_id": 5,
+    "createdAt": "2026-01-09T11:45:00.000Z",
+    "name": "Vikram Singh",
+    "phoneNumber": "919876123456",
+    "email": "vikram.singh@email.com",
+    "summary": "Looking for investment property in Faridabad. 2 BHK under construction project. Budget around 60-70 lakhs. Interested in payment plan with construction-linked installments. Discussed expected appreciation and rental yield. Client considering options.",
+    "preferredPropertyLocation": "Faridabad",
+    "budget": 6500000,
+    "appointment": {
+      "date": "2025-03-15",
+      "day": "Saturday",
+      "time": "12:00"
+    },
+    "call": {
+      "costUSD": 0.445,
+      "durationMinutes": 3.5
+    },
+    "leadStatus": "COLD",
+    "followUps": ["Send payment schedule", "Send project brochure"]
+  },
+  {
+    "_id": 6,
+    "createdAt": "2026-01-10T16:00:00.000Z",
+    "name": "Neha Gupta",
+    "phoneNumber": "917890123456",
+    "email": "neha.gupta@email.com",
+    "summary": "First-time home buyer looking for 2 BHK in Indirapuram. Budget up to 85 lakhs. Needs loan assistance. Discussed loan eligibility and EMI options. Client scheduled meeting with loan advisor next week.",
+    "preferredPropertyLocation": "Indirapuram",
+    "budget": 8500000,
+    "appointment": {
+      "date": "2025-03-14",
+      "day": "Friday",
+      "time": "14:30"
+    },
+    "call": {
+      "costUSD": 0.678,
+      "durationMinutes": 5.0
+    },
+    "leadStatus": "HOT",
+    "followUps": ["Coordinate loan advisor meeting"]
+  },
+  {
+    "_id": 7,
+    "createdAt": "2026-01-11T09:30:00.000Z",
+    "name": "Rajesh Malhotra",
+    "phoneNumber": "919234567890",
+    "email": "rajesh.malhotra@email.com",
+    "summary": "Interested in penthouse in Dwarka, Delhi. 5 BHK with terrace. Budget up to 6 crores. Client is an NRI, needs virtual tour options. Discussed video call facility and documentation process. Client will review after weekend.",
+    "preferredPropertyLocation": "Dwarka, Delhi",
+    "budget": 60000000,
+    "appointment": null,
+    "call": {
+      "costUSD": 0.856,
+      "durationMinutes": 7.2
+    },
+    "leadStatus": "WARM",
+    "followUps": ["Send virtual tour link", "Prepare NRI documentation guide"]
+  },
+  {
+    "_id": 8,
+    "createdAt": "2026-01-12T13:20:00.000Z",
+    "name": "Deepak Joshi",
+    "phoneNumber": "918345678901",
+    "email": "deepak.joshi@email.com",
+    "summary": "Looking for commercial showroom on main road in Greater Noida. Minimum 2000 sq ft. Budget 2 crores. Client wants high footfall location. Discussed available options and rental potential. Will send location analysis.",
+    "preferredPropertyLocation": "Greater Noida",
+    "budget": 20000000,
+    "appointment": {
+      "date": "2025-03-16",
+      "day": "Tuesday",
+      "time": "16:00"
+    },
+    "call": {
+      "costUSD": 0.567,
+      "durationMinutes": 4.8
+    },
+    "leadStatus": "WARM",
+    "followUps": ["Send location analysis report"]
+  },
+  {
+    "_id": 9,
+    "createdAt": "2026-01-13T15:45:00.000Z",
+    "name": "Kavita Mehta",
+    "phoneNumber": "917890234567",
+    "email": "kavita.mehta@email.com",
+    "summary": "Inquiring about retirement home in Dehradun. 3 BHK with garden view. Budget 1.5 crores. Client is planning for next 2 years. Discussed upcoming projects and payment plans. Client will visit family in Dehradun next month and plans site visit.",
+    "preferredPropertyLocation": "Dehradun",
+    "budget": 15000000,
+    "appointment": {
+      "date": "2025-04-05",
+      "day": "Friday",
+      "time": "11:00"
+    },
+    "call": {
+      "costUSD": 0.423,
+      "durationMinutes": 3.0
+    },
+    "leadStatus": "COLD",
+    "followUps": ["Schedule April site visit", "Send retirement home brochure"]
+  },
+  {
+    "_id": 10,
+    "createdAt": "2026-01-13T17:00:00.000Z",
+    "name": "Sanjay Kapoor",
+    "phoneNumber": "919567890123",
+    "email": "sanjay.kapoor@email.com",
+    "summary": "Looking for retail space in Connaught Place, Delhi. 500 sq ft on ground floor. Budget up to 3 crores. Client is an investor looking for rental income. Discussed current market rates and ROI. Client interested but comparing with other options.",
+    "preferredPropertyLocation": "Connaught Place, Delhi",
+    "budget": 30000000,
+    "appointment": null,
+    "call": {
+      "costUSD": 0.734,
+      "durationMinutes": 6.5
+    },
+    "leadStatus": "WARM",
+    "followUps": ["Send market comparison", "ROI calculation sheet"]
+  },
+  {
+    "_id": 11,
+    "createdAt": "2026-01-14T10:30:00.000Z",
+    "name": "Anita Desai",
+    "phoneNumber": "918901234567",
+    "email": "anita.desai@email.com",
+    "summary": "Interested in 1 BHK in Vaishali, Ghaziabad for daughter's college. Budget 45-50 lakhs. Near Metro preferred. Discussed ready-to-move options and payment plans. Client scheduled visit this weekend.",
+    "preferredPropertyLocation": "Vaishali, Ghaziabad",
+    "budget": 4750000,
+    "appointment": {
+      "date": "2025-03-17",
+      "day": "Sunday",
+      "time": "10:00"
+    },
+    "call": {
+      "costUSD": 0.389,
+      "durationMinutes": 2.5
+    },
+    "leadStatus": "HOT",
+    "followUps": []
+  },
+  {
+    "_id": 12,
+    "createdAt": "2026-01-14T14:15:00.000Z",
+    "name": "Mahesh Reddy",
+    "phoneNumber": "919012345678",
+    "email": "mahesh.reddy@email.com",
+    "summary": "Looking for warehouse space in Bhiwandi, Mumbai. 5000 sq ft minimum. Budget up to 2.5 crores. Client needs high ceiling and loading dock. Discussed available industrial zones and connectivity. Will send detailed specifications.",
+    "preferredPropertyLocation": "Bhiwandi, Mumbai",
+    "budget": 25000000,
+    "appointment": {
+      "date": "2025-03-20",
+      "day": "Thursday",
+      "time": "12:00"
+    },
+    "call": {
+      "costUSD": 0.645,
+      "durationMinutes": 5.2
+    },
+    "leadStatus": "WARM",
+    "followUps": ["Send warehouse specifications", "Check loading dock availability"]
+  }
+]

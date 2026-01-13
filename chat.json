@@ -1,0 +1,321 @@
+[
+  {
+    "_id": 0,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T16:11:00.000Z",
+    "sender": "client",
+    "message": "Mai badiya",
+    "messageType": "text"
+  },
+  {
+    "_id": 1,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T06:40:36.817Z",
+    "sender": "client",
+    "message": "Mai badiya",
+    "messageType": "text"
+  },
+  {
+    "_id": 2,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T06:40:46.811Z",
+    "sender": "ai",
+    "message": "Aapka feedback ke liye dhanyavaad. Kya aapko call pe baat karna hai ya WhatsApp par continue karna chahenge?",
+    "messageType": "text"
+  },
+  {
+    "_id": 3,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T06:41:22.094Z",
+    "sender": "client",
+    "message": "Hlo",
+    "messageType": "text"
+  },
+  {
+    "_id": 4,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T08:41:44.265Z",
+    "sender": "ai",
+    "message": "Hello. Sophie here from Investist. Yeh properties aapke investment profile ko dhyan me rakh kar curate ki gayi hain.",
+    "messageType": "text"
+  },
+  {
+    "_id": 5,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T16:14:00.000Z",
+    "sender": "client",
+    "message": "Hi kase ho aap",
+    "messageType": "text"
+  },
+  {
+    "_id": 6,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T16:16:00.000Z",
+    "sender": "client",
+    "message": "Mujhe kal message karna ima not free",
+    "messageType": "text"
+  },
+  {
+    "_id": 7,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T16:18:00.000Z",
+    "sender": "client",
+    "message": "Hlo",
+    "messageType": "text"
+  },
+  {
+    "_id": 8,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T16:19:00.000Z",
+    "sender": "client",
+    "message": "Mujhe aap kal message karna",
+    "messageType": "text"
+  },
+  {
+    "_id": 9,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-03T16:22:00.000Z",
+    "sender": "client",
+    "message": "Mujhe nhi karna pls message send mut karo mujhe band karo",
+    "messageType": "text"
+  },
+  {
+    "_id": 10,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-04T16:52:00.000Z",
+    "sender": "client",
+    "message": "call",
+    "messageType": "text"
+  },
+  {
+    "_id": 11,
+    "sessionId": "914539868402676",
+    "phoneNumber": "917060175427",
+    "createdAt": "2026-01-05T00:00:00.000Z",
+    "sender": "ai",
+    "message": {
+      "summary": "User showed interest and requested a call.",
+      "clientLastMessage": "yes",
+      "aiLastMessage": "Thank you. Humari team aapko thodi der mein reach karegi."
+    },
+    "messageType": "summary"
+  },
+  {
+    "_id": 12,
+    "sessionId": "914539868402677",
+    "phoneNumber": "918765432109",
+    "createdAt": "2026-01-05T10:00:00.000Z",
+    "sender": "client",
+    "message": "Hi, I'm interested in your properties",
+    "messageType": "text"
+  },
+  {
+    "_id": 13,
+    "sessionId": "914539868402677",
+    "phoneNumber": "918765432109",
+    "createdAt": "2026-01-05T10:01:00.000Z",
+    "sender": "ai",
+    "message": "Hello! Thank you for your interest. What type of property are you looking for?",
+    "messageType": "text"
+  },
+  {
+    "_id": 14,
+    "sessionId": "914539868402677",
+    "phoneNumber": "918765432109",
+    "createdAt": "2026-01-05T10:02:00.000Z",
+    "sender": "client",
+    "message": "Looking for 3BHK in South Delhi",
+    "messageType": "text"
+  },
+  {
+    "_id": 15,
+    "sessionId": "914539868402677",
+    "phoneNumber": "918765432109",
+    "createdAt": "2026-01-05T10:03:00.000Z",
+    "sender": "ai",
+    "message": "Great! We have excellent options in Saket and Malviya Nagar. What's your budget range?",
+    "messageType": "text"
+  },
+  {
+    "_id": 16,
+    "sessionId": "914539868402677",
+    "phoneNumber": "918765432109",
+    "createdAt": "2026-01-05T10:05:00.000Z",
+    "sender": "client",
+    "message": "Around 2-3 crores",
+    "messageType": "text"
+  },
+  {
+    "_id": 17,
+    "sessionId": "914539868402677",
+    "phoneNumber": "918765432109",
+    "createdAt": "2026-01-05T10:06:00.000Z",
+    "sender": "ai",
+    "message": "Perfect! I'll send you the property details shortly. Would you like to schedule a visit?",
+    "messageType": "text"
+  },
+  {
+    "_id": 18,
+    "sessionId": "914539868402678",
+    "phoneNumber": "919876543210",
+    "createdAt": "2026-01-06T09:00:00.000Z",
+    "sender": "client",
+    "message": "Hello, can I get more info about the 2BHK in Gurgaon?",
+    "messageType": "text"
+  },
+  {
+    "_id": 19,
+    "sessionId": "914539868402678",
+    "phoneNumber": "919876543210",
+    "createdAt": "2026-01-06T09:01:00.000Z",
+    "sender": "ai",
+    "message": "Hi! Yes, the 2BHK in Gurgaon is on the 5th floor with 1100 sq ft area. Price is 85 lakhs.",
+    "messageType": "text"
+  },
+  {
+    "_id": 20,
+    "sessionId": "914539868402678",
+    "phoneNumber": "919876543210",
+    "createdAt": "2026-01-06T09:02:00.000Z",
+    "sender": "client",
+    "message": "Is it furnished?",
+    "messageType": "text"
+  },
+  {
+    "_id": 21,
+    "sessionId": "914539868402678",
+    "phoneNumber": "919876543210",
+    "createdAt": "2026-01-06T09:03:00.000Z",
+    "sender": "ai",
+    "message": "It's semi-furnished with modular kitchen and wardrobes in both bedrooms.",
+    "messageType": "text"
+  },
+  {
+    "_id": 22,
+    "sessionId": "914539868402679",
+    "phoneNumber": "919001234567",
+    "createdAt": "2026-01-07T14:00:00.000Z",
+    "sender": "client",
+    "message": "What's the booking amount for the new project?",
+    "messageType": "text"
+  },
+  {
+    "_id": 23,
+    "sessionId": "914539868402679",
+    "phoneNumber": "919001234567",
+    "createdAt": "2026-01-07T14:01:00.000Z",
+    "sender": "ai",
+    "message": "The booking amount is 5 lakhs. We also have EMI options available.",
+    "messageType": "text"
+  },
+  {
+    "_id": 24,
+    "sessionId": "914539868402679",
+    "phoneNumber": "919001234567",
+    "createdAt": "2026-01-07T14:02:00.000Z",
+    "sender": "client",
+    "message": "That sounds reasonable. Can I visit tomorrow?",
+    "messageType": "text"
+  },
+  {
+    "_id": 25,
+    "sessionId": "914539868402679",
+    "phoneNumber": "919001234567",
+    "createdAt": "2026-01-07T14:03:00.000Z",
+    "sender": "ai",
+    "message": "Absolutely! What time works best for you?",
+    "messageType": "text"
+  },
+  {
+    "_id": 26,
+    "sessionId": "914539868402679",
+    "phoneNumber": "919001234567",
+    "createdAt": "2026-01-07T14:04:00.000Z",
+    "sender": "client",
+    "message": "11 AM would be perfect",
+    "messageType": "text"
+  },
+  {
+    "_id": 27,
+    "sessionId": "914539868402680",
+    "phoneNumber": "919876123456",
+    "createdAt": "2026-01-08T11:00:00.000Z",
+    "sender": "client",
+    "message": "Is there parking available in the property?",
+    "messageType": "text"
+  },
+  {
+    "_id": 28,
+    "sessionId": "914539868402680",
+    "phoneNumber": "919876123456",
+    "createdAt": "2026-01-08T11:01:00.000Z",
+    "sender": "ai",
+    "message": "Yes, covered parking is available. You get 2 parking spaces with this unit.",
+    "messageType": "text"
+  },
+  {
+    "_id": 29,
+    "sessionId": "914539868402680",
+    "phoneNumber": "919876123456",
+    "createdAt": "2026-01-08T11:02:00.000Z",
+    "sender": "client",
+    "message": "Great! What about power backup?",
+    "messageType": "text"
+  },
+  {
+    "_id": 30,
+    "sessionId": "914539868402680",
+    "phoneNumber": "919876123456",
+    "createdAt": "2026-01-08T11:03:00.000Z",
+    "sender": "ai",
+    "message": "24/7 power backup with generator is available for common areas and lifts.",
+    "messageType": "text"
+  },
+  {
+    "_id": 31,
+    "sessionId": "914539868402681",
+    "phoneNumber": "917890123456",
+    "createdAt": "2026-01-09T16:00:00.000Z",
+    "sender": "client",
+    "message": "What amenities are included in the society?",
+    "messageType": "text"
+  },
+  {
+    "_id": 32,
+    "sessionId": "914539868402681",
+    "phoneNumber": "917890123456",
+    "createdAt": "2026-01-09T16:01:00.000Z",
+    "sender": "ai",
+    "message": "The society has a swimming pool, gym, club house, children's play area, and 24/7 security.",
+    "messageType": "text"
+  },
+  {
+    "_id": 33,
+    "sessionId": "914539868402681",
+    "phoneNumber": "917890123456",
+    "createdAt": "2026-01-09T16:02:00.000Z",
+    "sender": "client",
+    "message": "Is there a maintenance charge?",
+    "messageType": "text"
+  },
+  {
+    "_id": 34,
+    "sessionId": "914539868402681",
+    "phoneNumber": "917890123456",
+    "createdAt": "2026-01-09T16:03:00.000Z",
+    "sender": "ai",
+    "message": "Yes, maintenance charge is Rs. 4 per sq ft per month.",
+    "messageType": "text"
+  }
+]
